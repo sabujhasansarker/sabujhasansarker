@@ -29,8 +29,7 @@
       <br>
       
       
-<img src="https://i.ibb.co/brPwCgw/carbon-4.png " alt="drawing" style="height: 100px;
-"/>
+<img src="https://i.ibb.co/brPwCgw/carbon-4.png " alt="drawing"  height="500" />
 <br>
 
 ## About Me :
