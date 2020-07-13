@@ -29,7 +29,8 @@
       <br>
       
       
-![](https://i.ibb.co/brPwCgw/carbon-4.png)
+<img src="https://i.ibb.co/brPwCgw/carbon-4.png " alt="drawing" style="height: 100px;
+"/>
 <br>
 
 ## About Me :
