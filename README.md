@@ -1,4 +1,4 @@
-## Hi I'm Sabuj Hasan Sarker 👋
+# Hello I'm Sabuj Hasan Sarker 👋
 
 <a href="https://www.linkedin.com/in/sabujhasansarker" target="_blank"
         ><img
@@ -33,7 +33,7 @@
 <br>
 
 ## About Me :
-Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding boost my adrenaline. <br>
+I'm Full Stack Web Developer and always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding boost my adrenaline. <br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sabujhasansarker) <br>
 
