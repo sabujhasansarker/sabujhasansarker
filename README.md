@@ -12,7 +12,7 @@
       /></a>
       <a href="https://www.facebook.com/sabujhasansarker" target="_blank"
         ><img
-          src="https://img.shields.io/badge/@sabujhasansarkr-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white"
+          src="https://img.shields.io/badge/@sabujhasansarker-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white"
           alt="Facebook"
       /></a>
       <a href="https://twitter.com/sabujhasansarkr" target="_blank"
